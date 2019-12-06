@@ -1,0 +1,20 @@
+alert(Olá Mundo!);
+
+var num1 = prompt (Digite um número);
+var num2 = prompt (Digite outro número);
+
+var soma = parseInt(num1) + parseInt(num2);
+alert(soma);
+
+var anoNasc = prompt(Digite seu ano de nascimento)
+
+var idade = 2019 - parseInt(anoNasc);
+alert(Sua idade é  + idade +  anos.);
+
+var nu1 = parseInt(prompt(Digite o 1º número));
+var nu2 = parseInt(prompt(Digite o 2º número));
+var nu3 = parseInt(prompt(Digite o 3º número));
+
+var media = (nu1 + nu2 + nu3)3;
+
+alert(A média é  + media);
